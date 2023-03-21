@@ -39,13 +39,19 @@ export const Home = () => {
           </Button>
         </Link>
       </ButtonsContainer>
-      <div>
+      <div
+        style={{
+          width: '100%',
+          display: 'flex',
+          justifyContent: 'center'
+        }}
+      >
         <iframe
           src='https://www.africau.edu/images/default/sample.pdf'
-          width='100%'
+          width='800px'
           height='600'
           title='pdf'
-          style={{ border: 'none' }}
+          style={{ border: 'none', margin: '20px' }}
         />
       </div>
     </div>
