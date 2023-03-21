@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blink-react/static/css/main.e6c13ad2.css",
-    "main.js": "/blink-react/static/js/main.e434e190.js",
+    "main.js": "/blink-react/static/js/main.74c865ef.js",
     "index.html": "/blink-react/index.html",
     "main.e6c13ad2.css.map": "/blink-react/static/css/main.e6c13ad2.css.map",
-    "main.e434e190.js.map": "/blink-react/static/js/main.e434e190.js.map"
+    "main.74c865ef.js.map": "/blink-react/static/js/main.74c865ef.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e434e190.js"
+    "static/js/main.74c865ef.js"
   ]
 }
